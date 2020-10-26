@@ -4,8 +4,7 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Preview](#preview)
 
 ## About <a name = "about"></a>
 
@@ -18,3 +17,6 @@ Clone the repository and open the index.html page inside the pages/login folder
 ### Prerequisites
 
 Browser
+
+### Preview <a name = "preview"></a>
+![Preview](./images/preview/preview-page.jpg)
